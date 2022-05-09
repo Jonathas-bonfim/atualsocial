@@ -18,5 +18,6 @@
 ### O projeto consome informações da API da empresa para autenticação, do Runrunit para exibir o fluxo do desenvolvimento e a API para obter as notícias.
 
 Vídeo demonstrativo: https://youtu.be/TkyhP1P-E4k 
+
 Vídeo explicativo: https://youtu.be/iVZv5U-0HZc
   
